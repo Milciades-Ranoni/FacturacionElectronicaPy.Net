@@ -26,3 +26,5 @@ Este proyecto pretende ser una solución de facturación electrónica completa, des
 
 ## Objetivos
 Tener una solución funcional que sirva de referencia y ayuda para la implementación de la facturación electrónica en Paraguay.
+
+## Algunos cambios
